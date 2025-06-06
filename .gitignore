@@ -28,6 +28,7 @@
 .ipython/
 .local/
 .nv/
+.ssh/
 .python_history
 .triton/
 .viminfo
